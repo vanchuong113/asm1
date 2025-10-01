@@ -17,7 +17,7 @@
     <!-- Menu navigation -->
     <jsp:include page="../common/menu.jsp"/>
 
-    <!-- Nội dung chính -->
+    <!-- Nội dung chính 1 -->
     <div class="container mt-4">
         <div class="row">
             <!-- Cột trái: nội dung thay đổi theo sidebar -->
